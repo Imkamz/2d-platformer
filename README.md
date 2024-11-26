@@ -13,10 +13,10 @@ To run the game on your local machine, follow these steps:
 
 Clone the Repository
 
-git clone https://github.com/imkamz/2d-platformer-java.git
-cd 2d-platformer-java
-Ensure Java is Installed
-Ensure you have JDK 8 or later installed. You can download it here.
+- git clone https://github.com/imkamz/2d-platformer-java.git
+- cd 2d-platformer-java
+- Ensure Java is Installed
+- Ensure you have JDK 8 or later installed. You can download it here.
 
 Compile and Run
 Use the terminal or an IDE like IntelliJ IDEA or Eclipse to compile and run the project:
@@ -24,11 +24,12 @@ Use the terminal or an IDE like IntelliJ IDEA or Eclipse to compile and run the 
 
 How to Play
 Controls:
-Arrow keys for movement
-Spacebar for jumping
-right click for attack
+- Arrow keys for movement
+- Spacebar for jumping
+- right click for attack
 Objective:
 Reach the end of the level by killing all enemies
 
 Acknowledgements
+
 This project was developed by following the 2d platformer game java tutorial on youtube by kaarin gaming.
